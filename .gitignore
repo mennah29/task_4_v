@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Large Simulation Folders (Exclude these from repo)
+HEART/
+liverSqueeze/
+nasal_cavity/
+teeth/
+New folder/
+screenshots/
+Images/
+
+# IDE
+.vscode/
+.idea/
